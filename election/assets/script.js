@@ -35,6 +35,6 @@ function goToInstagram() {
     // Perform any form submission logic here
     
     setTimeout(function () {
-    window.location.href = 'instagram/';
+    window.location.href = 'https://camilapub.github.io/ballotstream/election/instagram/';
   }, 3000); // 3000 milliseconds (3 seconds) delay
 }
