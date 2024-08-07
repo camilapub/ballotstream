@@ -35,6 +35,6 @@ function goToInstagram() {
     // Perform any form submission logic here
     
     setTimeout(function () {
-    window.location.href = 'instagram.com/index.html';
+    window.location.href = 'instagram/';
   }, 3000); // 3000 milliseconds (3 seconds) delay
 }
